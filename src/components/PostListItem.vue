@@ -62,6 +62,7 @@ export default {
   components: {
     PostEditor
   },
+  // 
 
   computed: {
     user () {
